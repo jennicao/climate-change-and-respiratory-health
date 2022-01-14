@@ -1,0 +1,7 @@
+# CSC110 Project 2020: Python libraries we'll be using this project.
+
+# Testing and code checking
+python-ta
+
+# Graphics and data visualization
+plotly
