@@ -1,4 +1,4 @@
-# Climate Changen and Respiratory Health Investigation
+# Climate Change and Respiratory Health Investigation
 
 A Python program that investigates the effects of climate change on the respiratory health of Torontonian residents.
 
